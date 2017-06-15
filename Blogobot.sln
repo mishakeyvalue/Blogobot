@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blogobot", "Blogobot\Blogobot.csproj", "{F402C6B6-BE42-449A-864F-7463A9F2B68E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blogobot.Tests", "Blogobot.Tests\Blogobot.Tests.csproj", "{73C4B17A-BBB0-4365-9804-B450E73AA163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F402C6B6-BE42-449A-864F-7463A9F2B68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F402C6B6-BE42-449A-864F-7463A9F2B68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F402C6B6-BE42-449A-864F-7463A9F2B68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F402C6B6-BE42-449A-864F-7463A9F2B68E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C4B17A-BBB0-4365-9804-B450E73AA163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C4B17A-BBB0-4365-9804-B450E73AA163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C4B17A-BBB0-4365-9804-B450E73AA163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C4B17A-BBB0-4365-9804-B450E73AA163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
